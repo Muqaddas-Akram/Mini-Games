@@ -1,0 +1,17 @@
+/* spinTheWheel.css */
+
+.spin-the-wheel-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 110vh;
+    padding-left: 365px;
+  }
+  
+  .wheel-container {
+    margin-bottom: 20px; /* Add margin to separate the wheel and the button */
+  }
+  
+
+  
